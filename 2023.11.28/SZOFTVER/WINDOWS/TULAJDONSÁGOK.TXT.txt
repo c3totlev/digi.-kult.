@@ -1,0 +1,15 @@
+Eszköz neve	taniroda-hp-22
+Teljes eszköznév	taniroda-hp-22.vasvari.hu
+Processzor	Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz   3.19 GHz
+Memória mérete	16,0 GB (15,8 GB használható)
+Eszköz azonosítója	7FDC5046-85CB-4106-BA54-581E273DC814
+Termékazonosító	00329-00000-00003-AA344
+Rendszer típusa	64 bites operációs rendszer, x64-alapú processzor
+Toll és érintés	Ez a képernyő sem tollal történő, sem érintéses bevitelt nem tesz lehetővé
+
+
+Kiadás	Windows 10 Enterprise
+Verzió	22H2
+Telepítés dátuma	‎2023. ‎08. ‎14.
+Operációs rendszer buildszáma	19045.3393
+Minőség	Windows Feature Experience Pack 1000.19044.1000.0
